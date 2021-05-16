@@ -1,0 +1,23 @@
+html {
+  font-family: Noto Sans Mono;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+}
+
+body > h1:first-child {
+  color: palevioletred;
+  font-weight: 900;
+  font-size: 2rem;
+  text-align: center;
+  border-bottom: dotted thin currentColor;
+  padding: 1rem 2rem;
+  margin: 0 auto;
+}
+
+body > main {
+  padding: 2rem;
+}
+
